@@ -1,5 +1,6 @@
 # AJAX Listener for Google Tag Manager
-
+ Ajax 監聽器
+ 
 ### Push AJAX events to data layer
 
 * * *
